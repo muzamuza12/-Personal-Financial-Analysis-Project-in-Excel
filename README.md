@@ -1,4 +1,4 @@
-# -Personal-Financial-Analysis-Project-in-Excel
+# Personal-Financial-Analysis-Project-in-Excel
 
 ### **Project Criteria and Questions**
 
